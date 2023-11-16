@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building things in that cloud that digital
-        experiences. Currently, I’m focused on building a datastreaming platforms at{' '}
+        I’m a Cloud Engineer that enjoys architecting things for the cloud. Currently, I’m focused
+        on building a datastreaming platforms at{' '}
         <a href="https://metro.de/" target="_blank" rel="noreferrer">
           METRO Markets
         </a>
@@ -75,12 +75,8 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noreferrer">
+      Download latest Resume!
     </a>
   );
 
