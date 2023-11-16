@@ -125,7 +125,23 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Terraform',
+    'Kubernetes',
+    'Ansible',
+    'Helm',
+    'Docker',
+    'Redis',
+    'Bash',
+    'ElasticSearch',
+    'Kafka',
+    'Flink',
+    'Gitlab CI/CD',
+    'Jenkins',
+    'Grafana',
+    'MySQL',
+    'Python',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,11 +151,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Lloyd and I enjoy building and modernizing things. I am a GCP and
-              AWS Certified Engineer with 9 years experience in architecting, maintaining and
-              growing cloud-based platforms and complex software development lifecycles. A
-              musician-turned-tech aficionado, with a passion for automating things and new
-              technologies that make our lives easier. about HTML &amp; CSS!
+              Hello! My name is Lloyd and I enjoy building and modernizing things. I am a Google and
+              Amazon Certified Engineer with 9 years experience in architecting, maintaining and
+              growing cloud-based platforms with complex software development lifecycles. I'm a
+              musician-turned-tech aficionado with a passion for automating things and creating new
+              technologies that make our lives easier.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
