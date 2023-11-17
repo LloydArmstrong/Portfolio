@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Cloud Engineer that enjoys architecting things for the cloud. Currently, I’m focused
-        on building a datastreaming platforms at{' '}
+        I’m a Infrastructure Engineer that enjoys building things for the cloud. Currently, I’m
+        focused on building a data streaming platform at{' '}
         <a href="https://metro.de/" target="_blank" rel="noreferrer">
           METRO Markets
         </a>
