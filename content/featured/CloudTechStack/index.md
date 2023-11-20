@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Cloud Stack Expertise'
-cover: './cloud.png'
+cover: './demo.png'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
 tech:

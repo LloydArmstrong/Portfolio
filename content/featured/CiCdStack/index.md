@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'CI/CD and Monitoring Stack Tools'
-cover: './cicd.png'
+cover: './demo.png'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
