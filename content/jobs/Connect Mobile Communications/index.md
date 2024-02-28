@@ -1,7 +1,7 @@
 ---
 date: '2018-09-01'
 title: 'DevOps Infrastructure Engineer'
-company: 'Connect Mobile Communications'
+company: 'Connect Mobile'
 location: 'Pretoria, South Africa'
 range: 'September 2018 - April 2020'
 url: 'https://connect-mobile.co.za/'
