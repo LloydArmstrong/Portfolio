@@ -61,12 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading"> Lloyd Armstrong.</h2>;
-  const three = <h3 className="big-heading">I build things for the cloud.</h3>;
+  const three = <h3 className="big-heading">I'm a Cloud and Data Expert.</h3>;
   const four = (
     <>
       <p>
-        I’m a Infrastructure Engineer that enjoys building things for the cloud. Currently, I’m
-        focused on building a data streaming platform at{' '}
+        I’m an Engineer that specializes in Cloud Infrastructure and Big Data Platforms. I'm
+        currently building a Data Platform at{' '}
         <a href="https://metro.de/" target="_blank" rel="noreferrer">
           METRO Markets
         </a>
