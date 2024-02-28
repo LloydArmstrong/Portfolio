@@ -126,16 +126,17 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Apache Kafka',
     'Terraform',
     'Kubernetes',
     'Ansible',
+    'Google BigQuery',
     'Helm',
     'Docker',
     'Redis',
     'Bash',
     'ElasticSearch',
-    'Kafka',
-    'Flink',
+    'Apache Flink',
     'Gitlab CI/CD',
     'Jenkins',
     'Grafana',
@@ -152,10 +153,10 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Lloyd and I enjoy building and modernizing things. I am a Google and
-              Amazon Certified Engineer with 9 years experience in architecting, maintaining and
-              growing cloud-based platforms with complex software development lifecycles. I'm a
-              musician-turned-tech aficionado with a passion for automating things and creating new
-              technologies that make our lives easier.
+              Amazon Certified Engineer with 10 years experience in architecting, maintaining and
+              growing private and cloud-based data platforms with complex software development
+              lifecycles. I'm a musician-turned-tech aficionado with a passion for automating things
+              and creating new technologies that make our lives easier.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
