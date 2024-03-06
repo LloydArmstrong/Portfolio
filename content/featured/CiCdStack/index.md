@@ -10,4 +10,4 @@ tech:
   - Hashicorp Nomad
 ---
 
-My experience in the cloud is not limited to provider. Having worked with both [AWS](https://aws.amazon.com/)as well as [Google Cloud](https://cloud.google.com/?hl=enas), I hold certifications in both platforms. I also have extensive experience building and maintaing local cloud infrastructure using the [Hashicorp Stack](https://www.hashicorp.com/).
+Using CI/CD Tools is an integral part of agile teams. I have used a plethora of different tools over the years, starting with a custom and complex Jenkins implementation, to a modern, cloud-based Gitlab and Github Actions environment. A key to keeping it all afloat, is good monitoring tools. Zabbix, Grafana, and Cloud Monitoring are just a a few of the tools I've become proficient in.
