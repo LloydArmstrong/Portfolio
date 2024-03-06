@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Cloud Stack Expertise'
 cover: './demo.png'
 github: 'https://github.com/LloydArmstrong'
