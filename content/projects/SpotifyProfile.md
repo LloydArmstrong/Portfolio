@@ -1,13 +1,13 @@
 ---
-date: '2018-12-18'
-title: 'Spotify Profile'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '2022-01-01'
+title: 'Spotify Playlists'
+github: ''
+external: 'https://open.spotify.com/user/31envj4rfbxqdkp2teiqddgbbwdq?si=e166a05dc8774d36'
 tech:
-  - React
-  - Express
-  - Styled Components
-showInProjects: false
+  - Melodic House
+  - Melodic DnB
+  - Classical Piano
+showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Check out my curated playlists. Along with making my own music, I also love to share music I think people will love!
