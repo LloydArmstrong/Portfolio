@@ -265,10 +265,10 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>If you've got this far...</h2>
+      <h2 ref={revealTitle}>Some of my hobbies</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        A list of my Hobbies!
+        Take a look
       </Link>
 
       <ul className="projects-grid">
