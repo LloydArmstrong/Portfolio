@@ -1,5 +1,5 @@
 ---
-date: '2022-11-01'
+date: '2023-11-01'
 title: 'Data Platform Engineer'
 company: 'METRO Markets'
 location: 'Düsseldorf, Germany'
