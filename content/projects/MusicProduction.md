@@ -2,7 +2,7 @@
 date: '2023-01-01'
 title: 'Music Production'
 github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
+external: 'https://share.amuse.io/track/collateral-lost'
 tech:
   - Spotify
   - Apple Music
