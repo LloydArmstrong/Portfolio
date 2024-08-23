@@ -1,10 +1,10 @@
 ---
 date: '2023-11-01'
-title: 'Data Platform Engineer'
+title: 'Senior Data Platform Engineer'
 company: 'METRO Markets'
 location: 'Düsseldorf, Germany'
 range: 'October 2023 - Present'
-url: 'https://www.metro.de/'
+url: 'https://www.metro.de/marktplatz'
 ---
 
 - Designing, maintaining, and optimizing Apache data pipeline infrastructure for data collection, management, transformation, and access.
