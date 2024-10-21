@@ -5,7 +5,7 @@ github: ''
 external: ''
 tech:
   - Aircraft
-  - \#AirbusFTW
+  - '#AirbusFTW'
 showInProjects: true
 ---
 

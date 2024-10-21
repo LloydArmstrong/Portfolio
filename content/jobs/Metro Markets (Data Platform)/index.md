@@ -7,5 +7,6 @@ range: 'October 2023 - Present'
 url: 'https://www.metro.de/marktplatz'
 ---
 
-- Designing, maintaining, and optimizing Apache data pipeline infrastructure for data collection, management, transformation, and access.
-- Creating data pipelines using MySQL, Debezium, Flink and Kafka to manipulate raw data into usable formats for Business Intelligence Analyst and senior management to make critical business decisions efficiently.
+- Enabling Business Intelligence Analyst and Executives to make critical business decisions by designing, maintaining, and optimizing data pipelines using MySQL, Debezium, Apache Flink and Apache Kafka.
+- Working with Apache Impala and Apache Kudu clusters supporting our Power BI environment.
+- Rebuilding Data Platform with bleeding-edge tools like BigQuery, ClickHouse and Google DataProc
