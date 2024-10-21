@@ -2,7 +2,7 @@
 date: '2021-01-01'
 title: 'I Love Sport'
 github: ''
-external: ''
+external: 'https://www.sarugby.co.za/sa-teams-players/springboks/'
 tech:
   - Cricket
   - Rugby
